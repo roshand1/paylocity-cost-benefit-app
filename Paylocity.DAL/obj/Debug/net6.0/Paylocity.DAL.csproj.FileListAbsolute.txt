@@ -1,0 +1,12 @@
+C:\Git\personal\PaylocityWebApp\Paylocity.DAL\bin\Debug\net6.0\Paylocity.DAL.deps.json
+C:\Git\personal\PaylocityWebApp\Paylocity.DAL\bin\Debug\net6.0\Paylocity.DAL.dll
+C:\Git\personal\PaylocityWebApp\Paylocity.DAL\bin\Debug\net6.0\ref\Paylocity.DAL.dll
+C:\Git\personal\PaylocityWebApp\Paylocity.DAL\bin\Debug\net6.0\Paylocity.DAL.pdb
+C:\Git\personal\PaylocityWebApp\Paylocity.DAL\obj\Debug\net6.0\Paylocity.DAL.csproj.AssemblyReference.cache
+C:\Git\personal\PaylocityWebApp\Paylocity.DAL\obj\Debug\net6.0\Paylocity.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\personal\PaylocityWebApp\Paylocity.DAL\obj\Debug\net6.0\Paylocity.DAL.AssemblyInfoInputs.cache
+C:\Git\personal\PaylocityWebApp\Paylocity.DAL\obj\Debug\net6.0\Paylocity.DAL.AssemblyInfo.cs
+C:\Git\personal\PaylocityWebApp\Paylocity.DAL\obj\Debug\net6.0\Paylocity.DAL.csproj.CoreCompileInputs.cache
+C:\Git\personal\PaylocityWebApp\Paylocity.DAL\obj\Debug\net6.0\Paylocity.DAL.dll
+C:\Git\personal\PaylocityWebApp\Paylocity.DAL\obj\Debug\net6.0\ref\Paylocity.DAL.dll
+C:\Git\personal\PaylocityWebApp\Paylocity.DAL\obj\Debug\net6.0\Paylocity.DAL.pdb
